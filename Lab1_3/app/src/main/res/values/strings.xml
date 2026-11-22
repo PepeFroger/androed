@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DNS_2</string>
+
+    <string name="shop_name">DNS_2</string>
+    <string name="shop_slogan">LALALAL</string>
+
+
+
+    <string name="hint_search">Поиск товаров</string>
+
+    <string name="cat_phones">Смартфоны</string>
+    <string name="cat_laptops">Ноутбуки</string>
+    <string name="cat_tv">Телевизоры</string>
+    <string name="cat_audio">Аудио</string>
+    <string name="cat_games">Игры</string>
+    <string name="cat_all">Ещё</string>
+    <string name="btn_quiz">Пройти квиз</string>
+    <string name="share_text">пупупу</string>
+
+    <string name="product_name">Смартфон Galaxy X20</string>
+    <string name="product_price">29 990 ₽</string>
+    <string name="product_old_price">34 990 ₽</string>
+    <string name="product_desc">6.5" AMOLED, 8 ГБ RAM, 256 ГБ, камера 108 Мп</string>
+
+    <string name="btn_buy">Купить</string>
+    <string name="btn_cart">Поделится</string>
+</resources>
